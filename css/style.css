@@ -1,0 +1,124 @@
+    body {
+        margin: auto 150px;
+        text-align: center;
+        background-color: #f2ffdf;
+    }
+
+    h1 {
+        color: #682c0e;
+        font-family: 'Nerko One', cursive;
+        font-size: 4.75rem;
+        font-weight: 100;
+        margin: 20px auto 0 0;
+
+    }
+
+    h2 {
+        font-family: 'Manuale', serif;
+        font-size: 2.5rem;
+        margin: 10px auto 0 auto;
+        color: #28544b;
+    }
+
+    h3 {
+        font-family: 'Manuale', serif;
+    }
+
+    p {
+        font-family: 'Catamaran', sans-serif;
+
+    }
+
+    hr {
+        border: dotted rgba(0, 217, 33, 0.34) 6px;
+        border-bottom: none;
+        width: 5%;
+        clear: both;
+        margin: 100px auto;
+    }
+
+    .gif_kod{
+       display: block;
+       width: 100px;
+        margin: 0 auto;
+    }
+
+
+
+    .grafics_my_skills_eye {
+        width: 200px;
+        height: 100px;
+        float: right;
+    }
+
+    .grafics_my_skills_mode {
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+        
+
+
+    }
+
+    .heading_mySkils {
+        clear: both;
+    }
+
+
+    .grafics_my_skills_head {
+        width: 100px;
+        height: 100px;
+    }
+
+
+    .heading {
+        text-align: center;
+        padding-top: 100px;
+    }
+
+    .buttom-cloud {
+        position: absolute;
+
+    }
+
+    .top-cloud {
+        display: block;
+        position: relative;
+        right: -67%;
+    }
+
+    }
+
+    .middle {
+        background: blue;
+        width: 300px;
+        height: 300px;
+
+    }
+
+    .bottom {
+        background: yellow;
+        width: 300px;
+        height: 300px;
+
+    }
+
+    .btn {
+        -webkit-border-radius: 34;
+        -moz-border-radius: 34;
+        border-radius: 34px;
+        font-family: Arial;
+        color: #000000;
+        font-size: 25px;
+        background: #f2ffdf;
+        padding: 10px 20px 10px 20px;
+        border: solid #682c0e 5px;
+        text-decoration: none;
+        margin: 20px auto;
+    }
+
+    .btn:hover {
+        background: #682c0e;
+        text-decoration: none;
+        
+    }
